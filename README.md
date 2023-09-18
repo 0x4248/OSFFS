@@ -1,6 +1,6 @@
 # Open source file format standard
 
-A standard for open source file formats so applications and people can easily understand file formats.
+A standard for open source file formats so applications and people can easily understand how they work.
 
 ## What is the OSFF standard?
 
