@@ -116,11 +116,3 @@ This project is [OSFFS Compliant](https://www.github.com/lewisevans2007/OSFFS).
 [OSFFS Comliant](https://www.github.com/lewisevans2007/OSFFS)
 ```
 
-```
-![OSFFS Logo](https://raw.githubusercontent.com/lewisevans2007/OSFFS/master/logos/png/Logo_variant_1.png|width=100)
-```
-
-```
-![OSFFS Logo](https://raw.githubusercontent.com/lewisevans2007/OSFFS/master/logos/png/Logo_variant_1.png|width=50) [OSFFS Compliant](https://www.github.com/lewisevans2007/OSFFS)
-```
-
