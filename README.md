@@ -105,14 +105,14 @@ If you document properly and people can understand how the file format works by 
 You can add the OSFFS logo (Found at `logos/`) to your project to let people know that your project meets the OSFF standard. You can also add the following texts to your project:
 
 ```
-This project meets the [Open Source File Format Standard](https://www.github.com/lewisevans2007/OSFFS).
+This project meets the [Open Source File Format Standard](https://www.github.com/0x4248/OSFFS).
 ```
 
 ```
-This project is [OSFFS Compliant](https://www.github.com/lewisevans2007/OSFFS).
+This project is [OSFFS Compliant](https://www.github.com/0x4248/OSFFS).
 ```
 
 ```
-[OSFFS Comliant](https://www.github.com/lewisevans2007/OSFFS)
+[OSFFS Comliant](https://www.github.com/0x4248/OSFFS)
 ```
 
